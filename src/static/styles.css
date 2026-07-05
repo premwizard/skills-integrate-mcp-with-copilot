@@ -198,3 +198,8 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+
+/* admin page tweaks */
+button.delete-activity { background-color: #c62828; margin-top: 10px; }
+button.delete-activity:hover { background-color: #b71c1c; }
